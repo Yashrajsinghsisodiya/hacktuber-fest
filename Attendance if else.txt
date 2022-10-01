@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+   int Attend;
+   int Least=75;
+   cin<Attend;
+   cout<"Enter The Attendance - ";
+   if(Attend>Least)
+   {
+   cout<"Your Are Eligible For Exam";
+   }
+   else
+   cout<"your ARe Not Eligible";
+}
